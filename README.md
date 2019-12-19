@@ -5,5 +5,5 @@ This code let a quadcopter fly with Rain Learning.
 In anaconda prompt,  
 `conda isntall jupyter notebook`  
 `cd RL-for-Quadcopter`  
-`jupyter notebook`  
-open the Quadcopter_Project-priority.ipynb
+`jupyter notebook Quadcopter_Project-priority.ipynb`  
+The ipynb file shows in browser.
